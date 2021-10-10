@@ -1,4 +1,4 @@
-# apng2png
+# argb2png
 
 在拆 ワルキューレロマンツェ Walkure Romanze 時，發現使用不論arc_unpack、Garbro、arc_conv ... 解出來的都是argb檔
 
